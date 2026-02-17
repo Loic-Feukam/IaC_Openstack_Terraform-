@@ -26,3 +26,9 @@ NSG du sous-réseau privé.
 
 Autorise les connexions SSH uniquement depuis les machines situées dans le sous-réseau public.
 Bloque tout accès direct depuis Internet.
+
+ ### Schéma de l’architecture ###
+
+![Schéma de l'architecture](images.png)
+
+
